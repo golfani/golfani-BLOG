@@ -1,0 +1,18 @@
+# Setup
+title:        GOLFANI-BLOG
+tagline:      커뮤니티를 구축하면서 학습한 것을 정리합니다.
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       GOLFANI TEAM
+  url:        http://golfani.com
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
