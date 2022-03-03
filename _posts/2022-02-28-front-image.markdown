@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "3. 이미지 리사이징"
+title:  "3. 이미지 리사이징 및 여러 사이즈의 이미지 관리"
 date:   2022-02-27 19:14:00
 categories: front
 ---

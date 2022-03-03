@@ -61,9 +61,11 @@ JWT 방식이 단점이 없는 완벽한 방식은 아니지만 Cookie, Session 
 위 설명과 같이 GOLFANI에서는 인증 방식으로 JWT 방식을 채용했습니다.  
 실제 유저가 로그인할 경우 일어나는 프로세스들을 보여드리도록 하겠습니다.
 
+![로그인](/assets/images/login.png)
+
 1) 클라이언트(React) 로그인 요청 -> 서버(Spring)  
 2) Spring Security 에서 해당 요청이 유효한 사용자 ID, PW 인지 확인  
-3-1) 유효한 사용자일 경우 -> **Response Header**에 `AccessToken`, `RefreshToken` 담아서 클라이언트에게 제공  
+3-1) 유효한 사용자일 경우 -> **Response Header**에 `AccessToken`, **쿠키**에 `RefreshToken` 담아서 클라이언트에게 제공  
 3-2) 유효한 사용자가 아닐 경우 -> HTTP STATUS 401 제공
 
 #### **Redux Saga를 이용한 로그인 처리**

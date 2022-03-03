@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "0. 골파니 프로젝트 기획"
+title:  "0. GOLFANI 프로젝트 기획"
 date:   2022-02-20 14:10:00
 categories: front
 ---
 # 개요
->골파니 프로젝트에서 진행할 서비스에 대한 전반적인 소개입니다.  
+>GOLFANI 프로젝트에서 진행할 서비스에 대한 전반적인 소개입니다.  
 
-[골파니 바로가기][golfani]
+[GOLFANI 바로가기][golfani]
 
 ___
 # **메인 서비스**
