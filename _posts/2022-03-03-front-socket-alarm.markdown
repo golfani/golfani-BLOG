@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "6. 소켓을 이용한 실시간 알람 및 채팅 서비스"
+title:  "6. 소켓(STOMP)를 이용한 실시간 알람 및 채팅 서비스"
 date:   2022-03-02 15:24:00
 categories: front
 ---
