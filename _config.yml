@@ -1,8 +1,8 @@
 category_list: [ front, backend ]
 
 # Setup
-title:        GOLFANI-BLOG
-tagline:      GOLFANI를 진행하면서 학습한 것을 정리합니다.
+title:        GOLFANI-TECH-BLOG
+# tagline:      GOLFANI를 진행하면서 학습한 것을 정리합니다.
 baseurl:      ""
 paginate:     1
 locale:       "en"
